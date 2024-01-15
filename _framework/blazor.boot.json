@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "Fluent.Emoji",
   "resources": {
-    "hash": "sha256-SxX4AbABNPD4HYwhtjzTfc4BvZ2gMV0sMSf5qlZPPyc=",
+    "hash": "sha256-YNJpwTJzZIabviEJL4e13uiYdNAFDnZcAABQo1bWdLI=",
     "jsModuleNative": {
       "dotnet.native.8.0.1.ahpp78valh.js": "sha256-SGOlISx+3G4kkvpC9Uq3qoPGsnjxGmW61QBev0lyI5U="
     },
@@ -20,7 +20,7 @@
       "Blazor.LocalStorage.WebAssembly.wasm": "sha256-GWSiGJHk753PbJCD59B7FSgaEpI+CV4do4jMwxrfeQw=",
       "Blazor.Serialization.wasm": "sha256-S2d4rbfkkNZd6gzqxQxUJ2ZzyHpfs10yOlOh+HM/NIY=",
       "Blazor.SessionStorage.WebAssembly.wasm": "sha256-VqPIJno9pcdC4QEo3jEicp1CgiDVvYYK/7SennWTPp4=",
-      "Fluent.Emoji.wasm": "sha256-xQoSeCwMg6jgT1OE+f0aThuopqcjg1ceeqezJDF9TnI=",
+      "Fluent.Emoji.wasm": "sha256-Q3jymPVaAMfCJbCgUcEBa4kNwkXNdKhX34G9xnidzpw=",
       "Microsoft.AspNetCore.Components.Forms.wasm": "sha256-CeB0FGf6CsuqV69h/eyR2G++Mk+iG2L67plCz+6e/H0=",
       "Microsoft.AspNetCore.Components.wasm": "sha256-k0qNprJZqD4bFSYaDc1Cx8K33Gs/uAU3rHMQWwTOxm8=",
       "Microsoft.AspNetCore.Components.Web.wasm": "sha256-W5efThPCHMJLz7pMbZQj6UcQ4z7JDXnUnJkah2ZgbZM=",
