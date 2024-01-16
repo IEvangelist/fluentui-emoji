@@ -76,3 +76,25 @@ main[b-q3yezkqphb] {
         padding-right: 1.5rem !important;
     }
 }
+/* /Pages/Home.razor.rz.scp.css */
+[b-tpxxf127s9] .darken {
+  filter: brightness(.9);
+}
+
+[b-tpxxf127s9] .ellipsis {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+[b-tpxxf127s9] .clickable {
+    cursor: pointer;
+}
+
+[b-tpxxf127s9] .clickable:hover {
+    filter: brightness(1.1);
+}
+
+[b-tpxxf127s9] .full-width {
+    width: 100%;
+}
